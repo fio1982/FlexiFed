@@ -1,5 +1,5 @@
-This paper includes experiments for paper "FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures", which is published at The Web Conference 2023.
+This repository includes the code for experiments presented in our paper "FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous Model Architectures", which is published at The Web Conference 2023.
 
-All experiments are done using Python 3.8 and Pytorch 1.13
+The experiments were implemented in Python 3.8 and Pytorch 1.13
 
 
